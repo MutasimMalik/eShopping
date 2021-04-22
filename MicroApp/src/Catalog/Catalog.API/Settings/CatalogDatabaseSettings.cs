@@ -1,6 +1,6 @@
 ﻿namespace Catalog.API.Settings
 {
-    public class CatalogDatabaseaSettings : ICatalogDatabaseSettings
+    public class CatalogDatabaseSettings : ICatalogDatabaseSettings
     {
         public string ConnectionString { get; set; }
         public string DatabaseName { get; set; }

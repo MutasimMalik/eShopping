@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Confusing21\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Confusing21\\.nuget\\packages"
+    ]
+  }
+}
