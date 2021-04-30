@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QJ/hDXLpIoeWqlSjUatx74pK/tJp7qukX2DETJFGGal0wFeI0bYE/lQJsuFh1zedpQ6Pz2A2K54Rw+sVjeBR1w==",
+  "dgSpecHash": "MFpmmh0iHVg7bj21rQfCH7n7W4I9oFxN2LcfuRbsa3KRMDhUjJndBq4VqMrPIbsWJYpQ+VQwsKyiMu0QGvPsjA==",
   "success": true,
   "projectFilePath": "D:\\Let's Micro\\MicroApp\\src\\Basket\\Basket.API\\Basket.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Confusing21\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Confusing21\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Confusing21\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Confusing21\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
     "C:\\Users\\Confusing21\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Confusing21\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\Confusing21\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
