@@ -23,7 +23,6 @@ D:\Let's Micro\MicroApp\src\Catalog\Catalog.API\bin\Debug\net5.0\runtimes\win\na
 D:\Let's Micro\MicroApp\src\Catalog\Catalog.API\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
 D:\Let's Micro\MicroApp\src\Catalog\Catalog.API\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
 D:\Let's Micro\MicroApp\src\Catalog\Catalog.API\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
-D:\Let's Micro\MicroApp\src\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.csprojAssemblyReference.cache
 D:\Let's Micro\MicroApp\src\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.GeneratedMSBuildEditorConfig.editorconfig
 D:\Let's Micro\MicroApp\src\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.AssemblyInfoInputs.cache
 D:\Let's Micro\MicroApp\src\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.AssemblyInfo.cs
@@ -39,3 +38,4 @@ D:\Let's Micro\MicroApp\src\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.dll
 D:\Let's Micro\MicroApp\src\Catalog\Catalog.API\obj\Debug\net5.0\ref\Catalog.API.dll
 D:\Let's Micro\MicroApp\src\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.pdb
 D:\Let's Micro\MicroApp\src\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.genruntimeconfig.cache
+D:\Let's Micro\MicroApp\src\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.csproj.AssemblyReference.cache

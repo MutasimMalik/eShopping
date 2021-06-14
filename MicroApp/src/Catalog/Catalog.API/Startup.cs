@@ -62,7 +62,7 @@ namespace Catalog.API
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Catalog API");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Catalog API V1");
             });
         }
     }

@@ -18,6 +18,10 @@ D:\Let's Micro\MicroApp\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
 D:\Let's Micro\MicroApp\bin\Debug\MongoDB.Driver.Core.dll
 D:\Let's Micro\MicroApp\bin\Debug\Microsoft.OpenApi.dll
 D:\Let's Micro\MicroApp\bin\Debug\StackExchange.Redis.dll
+D:\Let's Micro\MicroApp\bin\Debug\EventBusRabbitMQ.dll
+D:\Let's Micro\MicroApp\bin\Debug\RabbitMQ.Client.dll
+D:\Let's Micro\MicroApp\bin\Debug\AutoMapper.dll
+D:\Let's Micro\MicroApp\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\Let's Micro\MicroApp\bin\Debug\Newtonsoft.Json.dll
 D:\Let's Micro\MicroApp\bin\Debug\MongoDB.Libmongocrypt.dll
 D:\Let's Micro\MicroApp\bin\Debug\DnsClient.dll
@@ -26,6 +30,7 @@ D:\Let's Micro\MicroApp\bin\Debug\Pipelines.Sockets.Unofficial.dll
 D:\Let's Micro\MicroApp\bin\Debug\System.Diagnostics.PerformanceCounter.dll
 D:\Let's Micro\MicroApp\bin\Debug\Catalog.API.pdb
 D:\Let's Micro\MicroApp\bin\Debug\Basket.API.pdb
-D:\Let's Micro\MicroApp\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+D:\Let's Micro\MicroApp\bin\Debug\EventBusRabbitMQ.pdb
+D:\Let's Micro\MicroApp\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 D:\Let's Micro\MicroApp\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 D:\Let's Micro\MicroApp\obj\Debug\docker-compose.dcproj.CopyComplete
