@@ -1,0 +1,12 @@
+D:\Let's Micro\MicroApp\src\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.deps.json
+D:\Let's Micro\MicroApp\src\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.dll
+D:\Let's Micro\MicroApp\src\Ordering\Ordering.Application\bin\Debug\net5.0\ref\Ordering.Application.dll
+D:\Let's Micro\MicroApp\src\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.pdb
+D:\Let's Micro\MicroApp\src\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.csproj.AssemblyReference.cache
+D:\Let's Micro\MicroApp\src\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Let's Micro\MicroApp\src\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.AssemblyInfoInputs.cache
+D:\Let's Micro\MicroApp\src\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.AssemblyInfo.cs
+D:\Let's Micro\MicroApp\src\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.csproj.CoreCompileInputs.cache
+D:\Let's Micro\MicroApp\src\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.dll
+D:\Let's Micro\MicroApp\src\Ordering\Ordering.Application\obj\Debug\net5.0\ref\Ordering.Application.dll
+D:\Let's Micro\MicroApp\src\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.pdb
