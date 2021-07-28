@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hVCTihG1smBhagROlzQGFyCtmgGmZoZKufKnyEIZvh52TYBELTFsC5BXXdbiAVP0PN9bvrQ2f6F+0diSYxpyHw==",
+  "dgSpecHash": "fcotyypFMVQHqe7HtBthnsWPxJUA5kvO3gAlnKTFvVHaoeVSOLrwJYlkPNjpXdc0M4U7hQ1BdD4nOMO7zZU21g==",
   "success": true,
   "projectFilePath": "D:\\Let's Micro\\MicroApp\\src\\Common\\EventBusRabbitMQ\\EventBusRabbitMQ.csproj",
   "expectedPackageFiles": [

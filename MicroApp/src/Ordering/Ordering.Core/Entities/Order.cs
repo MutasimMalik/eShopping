@@ -1,16 +1,11 @@
 ﻿using Ordering.Core.Entities.Base;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Ordering.Core.Entities
 {
     public class Order : Entity
     {
         public string UserName { get; set; }
-        public decimal TotalPrice { get; set; }
+        public float TotalPrice { get; set; }
 
         //BillingAddress
         public string FirstName { get; set; }

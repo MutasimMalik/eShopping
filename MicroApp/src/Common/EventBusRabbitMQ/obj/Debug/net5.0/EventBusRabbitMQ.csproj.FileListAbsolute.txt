@@ -2,6 +2,7 @@ D:\Let's Micro\MicroApp\src\Common\EventBusRabbitMQ\bin\Debug\net5.0\EventBusRab
 D:\Let's Micro\MicroApp\src\Common\EventBusRabbitMQ\bin\Debug\net5.0\EventBusRabbitMQ.dll
 D:\Let's Micro\MicroApp\src\Common\EventBusRabbitMQ\bin\Debug\net5.0\ref\EventBusRabbitMQ.dll
 D:\Let's Micro\MicroApp\src\Common\EventBusRabbitMQ\bin\Debug\net5.0\EventBusRabbitMQ.pdb
+D:\Let's Micro\MicroApp\src\Common\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.csproj.AssemblyReference.cache
 D:\Let's Micro\MicroApp\src\Common\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
 D:\Let's Micro\MicroApp\src\Common\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.AssemblyInfoInputs.cache
 D:\Let's Micro\MicroApp\src\Common\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.AssemblyInfo.cs
@@ -9,4 +10,3 @@ D:\Let's Micro\MicroApp\src\Common\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRab
 D:\Let's Micro\MicroApp\src\Common\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.dll
 D:\Let's Micro\MicroApp\src\Common\EventBusRabbitMQ\obj\Debug\net5.0\ref\EventBusRabbitMQ.dll
 D:\Let's Micro\MicroApp\src\Common\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.pdb
-D:\Let's Micro\MicroApp\src\Common\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.csproj.AssemblyReference.cache
