@@ -10,3 +10,6 @@ D:\Let's Micro\MicroApp\src\Ordering\Ordering.Application\obj\Debug\net5.0\Order
 D:\Let's Micro\MicroApp\src\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.dll
 D:\Let's Micro\MicroApp\src\Ordering\Ordering.Application\obj\Debug\net5.0\ref\Ordering.Application.dll
 D:\Let's Micro\MicroApp\src\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.pdb
+D:\Let's Micro\MicroApp\src\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Core.dll
+D:\Let's Micro\MicroApp\src\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Core.pdb
+D:\Let's Micro\MicroApp\src\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.csproj.CopyComplete

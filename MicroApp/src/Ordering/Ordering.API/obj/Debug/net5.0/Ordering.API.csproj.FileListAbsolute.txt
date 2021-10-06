@@ -66,3 +66,8 @@ D:\Let's Micro\MicroApp\src\Ordering\Ordering.API\obj\Debug\net5.0\Ordering.API.
 D:\Let's Micro\MicroApp\src\Ordering\Ordering.API\obj\Debug\net5.0\ref\Ordering.API.dll
 D:\Let's Micro\MicroApp\src\Ordering\Ordering.API\obj\Debug\net5.0\Ordering.API.pdb
 D:\Let's Micro\MicroApp\src\Ordering\Ordering.API\obj\Debug\net5.0\Ordering.API.genruntimeconfig.cache
+D:\Let's Micro\MicroApp\src\Ordering\Ordering.API\bin\Debug\net5.0\AutoMapper.dll
+D:\Let's Micro\MicroApp\src\Ordering\Ordering.API\bin\Debug\net5.0\FluentValidation.dll
+D:\Let's Micro\MicroApp\src\Ordering\Ordering.API\bin\Debug\net5.0\MediatR.dll
+D:\Let's Micro\MicroApp\src\Ordering\Ordering.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Let's Micro\MicroApp\src\Ordering\Ordering.API\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

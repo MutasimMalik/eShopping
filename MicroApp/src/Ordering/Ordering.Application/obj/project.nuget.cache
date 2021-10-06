@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "tgUHjtGTASeP/J06fZRabGwrr116wPqfhlmnElPpUYMzK98SjiOZCqHXQa4Yw8M2x08enE6i+ddtbjLtZFzT9w==",
+  "dgSpecHash": "WRusszE2dgYo12X7W1/oWdXU6IJkDgobd4EMMiW19ML0EFf21uZXdnNFqmOgio9mhbQTQWvvRAlmvXV/osxoqQ==",
   "success": true,
   "projectFilePath": "D:\\Let's Micro\\MicroApp\\src\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Confusing21\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Confusing21\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512",
+    "C:\\Users\\Confusing21\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Confusing21\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Confusing21\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
